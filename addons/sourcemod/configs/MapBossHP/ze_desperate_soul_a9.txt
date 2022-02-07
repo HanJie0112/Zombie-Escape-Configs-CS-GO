@@ -1,0 +1,31 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"                "S0_Hogg_Hp_Counter"
+        "CustomText"                "Nithhogg"
+    }
+    "1"
+    {
+        "HP_counter"                "Hogg_Hp_Counter"
+        "CustomText"                "Nithhogg"
+    }    
+    "2"
+    {
+        "Type"                  "breakable"
+        "BreakableName"         "S1_Diablo_Box"
+        "CustomText"            "Diablo"
+    }    
+    "3"
+    {
+        "Type"                  "breakable"
+        "BreakableName"         "Diablo_Hitbox"
+        "CustomText"            "Diablo"
+    }    
+    "4"
+    {
+        "Type"                  "breakable"
+        "BreakableName"         "Kaleda_Hitbox"
+        "CustomText"            "Kaleda"
+    }
+}    
